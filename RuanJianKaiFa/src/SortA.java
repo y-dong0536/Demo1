@@ -4,6 +4,8 @@ public class SortA {
 	
 
 	
+	
+	
 	public void SortResult(List<String> lists) {
 		// lists�еĶ���String ���?��compareTo���������Կ���ֱ�ӵ���sort����������Ȼ˳�����򣬼���������
 				 Collections.sort(lists);
