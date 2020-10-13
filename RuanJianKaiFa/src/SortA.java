@@ -1,10 +1,5 @@
 import java.util.Collections;
 import java.util.List;
-/**
- * �Գɼ���������
- * @author Administrator
- *
- */
 public class SortA {
 	
 
