@@ -1,20 +1,16 @@
 import java.util.Collections;
 import java.util.List;
 /**
- * ¶Ô³É¼¨½øĞĞÅÅĞò
+ * ï¿½Ô³É¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  * @author Administrator
  *
  */
 public class SortA {
 	
-//	public List<String> SortResult(List<String> lists) {
-//	// listsÖĞµÄ¶ÔÏóString ±¾Éíº¬ÓĞcompareTo·½·¨£¬ËùÒÔ¿ÉÒÔÖ±½Óµ÷ÓÃsort·½·¨£¬°´×ÔÈ»Ë³ĞòÅÅĞò£¬¼´ÉıĞòÅÅĞò
-//			 Collections.sort(lists);
-//			 return lists;
-//	}
+
 	
 	public void SortResult(List<String> lists) {
-		// listsÖĞµÄ¶ÔÏóString ±¾Éíº¬ÓĞcompareTo·½·¨£¬ËùÒÔ¿ÉÒÔÖ±½Óµ÷ÓÃsort·½·¨£¬°´×ÔÈ»Ë³ĞòÅÅĞò£¬¼´ÉıĞòÅÅĞò
+		// listsï¿½ĞµÄ¶ï¿½ï¿½ï¿½String ï¿½ï¿½ï¿½?ï¿½ï¿½compareToï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¿ï¿½ï¿½ï¿½Ö±ï¿½Óµï¿½ï¿½ï¿½sortï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È»Ë³ï¿½ï¿½ï¿½ï¿½ï¿½ò£¬¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 				 Collections.sort(lists);
 				 
 		}
