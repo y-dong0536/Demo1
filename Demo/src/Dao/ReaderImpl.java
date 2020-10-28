@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  * @author ÍõÎ¢Ô¨
  *
  */
-public class Reader {
+public class ReaderImpl implements Reader{
 	String content = "";
 	char[] chars = new char[1024];
 	String studentId; // Ñ§ºÅ

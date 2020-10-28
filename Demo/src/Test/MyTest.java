@@ -9,10 +9,10 @@ import pojo.People;
  * @author Administrator
  *
  */
-public interface Test {
+public interface MyTest {
 	
 	ArrayList<People> people = new ArrayList<People>();//实体类对象
 	
-	void TestData();//数据
-	void Text();//测试类
+
+	void TextD();//测试类
 }

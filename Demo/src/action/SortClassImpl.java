@@ -1,4 +1,4 @@
-package main;
+package action;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -14,7 +14,7 @@ import pojo.*;
  * 
  * @author 王微渊
  */
-public class SortClass {
+public class SortClassImpl implements SortClass{
 	ArrayList<String> totalScore = new ArrayList<String>();// 存放总成绩
 	Map<String, String> map = new HashMap<>();// 学号:总成绩
 	int Score = 0;// 每个人的总成绩

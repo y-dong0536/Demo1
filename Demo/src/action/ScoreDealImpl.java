@@ -1,4 +1,4 @@
-package main;
+package action;
 
 import java.util.List;
 import java.util.Map;
@@ -10,7 +10,7 @@ import pojo.People;
  * 
  * @author 张国庆
  */
-public class ScoreDeal {
+public class ScoreDealImpl implements ScoreDeal{
 
 	// 最高分
 	public int MaxScore(List<People> peopleList, String scoreclass) // 输入对象列表和想要查找的科目，返回对应科目最高分
